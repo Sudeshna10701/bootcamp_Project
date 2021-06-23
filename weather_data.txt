@@ -1,0 +1,7 @@
+-------------------------------------------------------------
+    Weather Stats for - BHILAI  || 23 Jun 2021 | 07:40:05 PM"
+    -------------------------------------------------------------
+    Current temperature is: 29.14 deg C"
+    Current weather desc  :", broken clouds
+    Current Humidity      :", 65, '%'
+    Current wind speed    :", 5.35, 'kmph'
